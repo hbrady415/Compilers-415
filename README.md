@@ -1,6 +1,5 @@
-# CS 415 Project 1
+# CS 415 Project
 
-There have been a few issues formatting the parse trees please request the full pdf if you want to see a better view
 
 # Spring 2020
 
